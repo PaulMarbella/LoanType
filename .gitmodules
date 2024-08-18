@@ -1,0 +1,3 @@
+[submodule "mobileLoan"]
+path = mobileLoan
+url = https://github.com/PaulMarbella/LoanType.git
